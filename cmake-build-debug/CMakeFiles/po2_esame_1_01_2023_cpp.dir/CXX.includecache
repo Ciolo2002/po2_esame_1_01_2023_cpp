@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/omarceretta/CLionProjects/po2_esame_1_01_2023_cpp/main.cpp
+iostream
+-
+functional
+-
+utility
+-
+
